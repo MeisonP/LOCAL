@@ -1,0 +1,2 @@
+# LOCAL
+for mobil view
